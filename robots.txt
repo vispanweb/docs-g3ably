@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-lj7uoi.pulaucuan.sbs/sitemap.xml
